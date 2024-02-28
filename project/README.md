@@ -32,7 +32,7 @@ Convert a video file or folder of images to animated gif; before you convert, if
 * If input is folder of images be sure it is top level folder or file.
 * In following picture "test_img_dir" and "walk.mp4" are top level folder/file.
 
-<p align="center">
+<p>
     <img width="248" height="250" src="https://github.com/WaiHlyanZ/Custom-GIF/blob/main/project/image/README/top_level_exp.png" alt="directory example">
 </p>
 
