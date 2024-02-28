@@ -31,8 +31,8 @@ Convert a video file or folder of images to animated gif; before you convert, if
 * If input is folder make sure to give only folder name.
 * If input is folder of images be sure it is top level folder or file.
 * In following picture "test_img_dir" and "walk.mp4" are top level folder/file.
-[supported by Tidelift](https://tidelift.com/subscription/pkg/pypi-pillow?utm_source=pypi-pillow&utm_medium=readme&utm_campaign=enterprise).
-  ![plot](/workspaces/114047336/week9/project/image/README/top_level_exp.png)
+
+![plot]([/workspaces/114047336/week9/project/image/README/top_level_exp.png](https://github.com/WaiHlyanZ/Custom-GIF/blob/main/project/image/README/top_level_exp.png))
 
 ##### Usage:
 
